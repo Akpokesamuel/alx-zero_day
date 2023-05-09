@@ -1,1 +1,1 @@
-my first readme
+samuel is learn how to code
